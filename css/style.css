@@ -264,7 +264,7 @@ header ul.nav li ul li ul {
   content:none;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-color: rgb(255, 255, 0);  
+color: rgb(123, 146, 145);;  
 }
 
 
@@ -495,7 +495,7 @@ section.callaction {
 ==================================== */
 
 #inner-headline{
-	background: #ffff45;
+	background: rgb(194, 230, 228);
 	position:relative;
 	margin:0;
 	padding:0;
@@ -973,7 +973,7 @@ ul.link-list li{
 	list-style:none;
 }
 footer{
-background: #ffff45;
+background: rgb(194, 230, 228);;
 }
 footer ul.link-list li a{
 	color:#fff;
@@ -1208,7 +1208,7 @@ border: 1px solid #e6e6e6;
 
 .pricing-box-item .pricing-terms {
 	text-align: center;
-	background: rgba(235, 255, 0, 0.9);
+	background: rgb(194, 230, 228);;
 	display: block;
 	overflow: hidden;
 	padding: 11px 0 5px; 
